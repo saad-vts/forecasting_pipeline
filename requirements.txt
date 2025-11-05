@@ -9,3 +9,5 @@ prophet
 shap
 holidays
 scikit-learn
+requests
+clearml
